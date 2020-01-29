@@ -1,0 +1,6 @@
+#Utwórz skrypt z interfejsem tekstowym, który wyliczy sumę n kolejnych liczb (użytkownik podaje pierwszą i ostatnią liczbę sumy). 
+#Uwaga – w zadaniu należy zbudować funkcję własną realizującą dane zadanie
+a = input("Podaj pierwsza liczbe: ")
+b = input("Podaj ostatnia liczbe: ")
+For i in range(a,b)
+    print
